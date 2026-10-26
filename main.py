@@ -33,7 +33,6 @@ def display_help():
     print("\n--- Process Management ---")
     print(" process             -View all processes")
     print(" run <name>          -Create a new process")
-    print(" start <id>            -Run a process")
     print(" kill <id>           -Kill a process")
 
     # Under Memory Management
